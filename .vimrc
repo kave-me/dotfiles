@@ -5,6 +5,7 @@ set number
 
 " show relative line numbers
 set relativenumber
+
 " enhace vim
 set nocompatible
 
